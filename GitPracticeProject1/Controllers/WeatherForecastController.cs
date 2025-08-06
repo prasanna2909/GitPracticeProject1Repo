@@ -8,7 +8,7 @@ namespace GitPracticeProject1.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" ,"Adding"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" ,"Adding" , "Deleting"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
